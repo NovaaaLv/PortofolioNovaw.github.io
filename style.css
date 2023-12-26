@@ -16,6 +16,10 @@
   --globalColor: var(--bodyBackground);
 }
 
+.pt-20 {
+  padding-top: 70px;
+}
+
 .pb-30px {
   padding-bottom: 30px;
 }
@@ -100,11 +104,14 @@ nav {
   left: 0;
   top: 0;
   right: 0;
+  flex-wrap: wrap;
+  background-color: #b6bbc4;
 }
 
 .content-nav {
   display: flex;
   gap: 18px;
+  flex-wrap: wrap;
 }
 
 .content-nav a {
