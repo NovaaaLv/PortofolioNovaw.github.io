@@ -28,7 +28,7 @@
 }
 
 .bg-2 {
-  background-color: var(--secondaryBackground);
+  background-color: #f3eeea;
   color: var(--globalColor);
   padding-bottom: 20px;
   padding-top: 20px;
